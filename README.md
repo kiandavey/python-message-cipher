@@ -1,4 +1,4 @@
-# python-text-cipher
+# python-message-cipher
 
 A small Python practice program that performs a simple character-shift cipher.
 
